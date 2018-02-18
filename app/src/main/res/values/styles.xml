@@ -8,4 +8,12 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="MiEstilo" parent="AppTheme">
+        <item name="colorPrimary">@color/azul</item>
+    </style>
+
+    <style name="EstiloBoton" parent="AppTheme">
+        <item name="android:textColorTertiary">@color/azul</item>
+    </style>
+
 </resources>
